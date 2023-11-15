@@ -76,7 +76,7 @@ These actions can be implemented in different ways.
 
 ### Mechanics
 
-TODO: general description of mechanics
+Game mechanics are defined as any action performed by a player that modifies the game state, that is, the position and specific characteristics of all objects and environments present in the game at a precise moment in time.
 
 #### Primary mechanics
 
