@@ -15,7 +15,7 @@
     - [Agency](#agency)
     - [Feedback](#feedback)
     - [Game state](#game-state)
-  - [Excercise: Analyze Game](#excercise-analyze-game)
+  - [Excercise: Analyze Game Loco Motion](#excercise-analyze-game-loco-motion)
     - [Actions/verbs/mechanics](#actionsverbsmechanics)
     - [Rules](#rules)
     - [Gameplay loop](#gameplay-loop-1)
@@ -36,8 +36,16 @@
 ## Resources
 
 - Book: What we talk about when we tak about love
-- [Book - Game poems](https://www.gamepoemsbook.com/)
-- [Mini Jam](https://minijamofficial.com/)
+- [Game poems book](https://www.gamepoemsbook.com/)
+- [minijamofficial.com - Mini Jam](https://minijamofficial.com/)
+  - Game Jam on Itch.io
+- [Bossfightbooks.com - ZZT by Anna Anthropy](https://bossfightbooks.com/products/zzt-by-anna-anthropy)
+- [Gamespace.ch](http://gamespace.ch/)
+  - Game Jam and Meetup in Zurich
+- [Sgda.ch - Swiss Game Developers Association](https://www.sgda.ch/)
+- [Etterstudio.com - Game Design/Visual Design/Roboters ](https://etterstudio.com/index/)
+- [Amazon.com - Anna Anthropy - Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Drop-outs, Queers, Housewives, and People Like You Are Taking Back an Art Form](https://www.amazon.com/Rise-Videogame-Zinesters-Drop-outs-Housewives/dp/1609803728)
+- [Wikipedia.org - Raymond Carver - What we talk about when we talk about love](https://en.wikipedia.org/wiki/What_We_Talk_About_When_We_Talk_About_Love)
 
 ## Journal entry
 
@@ -45,11 +53,11 @@ As I am only a casual gamer, I am not that much affine with typical terms used i
 
 ## Introduction video
 
-> See: [YouTube - Sebastian Hollstein - Digitale Spiele als Zeitzeugen?](https://www.youtube.com/watch?v=WKzH2aWRtm0) (04:00 - 15:30)
+> See: [YouTube.com - Sebastian Hollstein - Digitale Spiele als Zeitzeugen?](https://www.youtube.com/watch?v=WKzH2aWRtm0) (04:00 - 15:30)
 
 ### Mentioned games
 
-- [Steampowered - Through the Darkest of Time](https://store.steampowered.com/app/1003090/Through_the_Darkest_of_Times/)
+- [Steampowered.com - Through the Darkest of Time](https://store.steampowered.com/app/1003090/Through_the_Darkest_of_Times/)
 
 ## What is a game, what is a play?
 
@@ -86,19 +94,19 @@ These mechanics are used as secondary elements and do not belong to the main gam
 
 ### Agency
 
-TODO: describe agency in games
+Agency in games is the degree to which a player is able to cause significant change in a game world. This can differ very much in games. For example in Skyrim, you are very much able to choose your own path on how you progress the game, whereas in other games, there is a fixed storyline that you can't choose freely. Other aspects also include, how your actions in a game affect the outcome.
 
 ### Feedback
 
-TODO: describe feedback in context of games
+Feedback is one of the most important elements of game design, as it communicates to the player how they are performing, what they can do, and what the consequences of their actions are. Feedback can be visual, auditory, tactile, or even emotional, and it can be positive, negative, or neutral.
 
 ### Game state
 
-TODO: describe
+Game state defines what different phases you go through in a game. For example in a shooter game, you often have a lobby state where you choose map, team, class, gear and so on. You then have one or multiple rounds which often end after a specific duration. After the round, you will see the results and if you have won/lost.
 
-## Excercise: Analyze Game
+## Excercise: Analyze Game Loco Motion
 
-- [Loco Motion](https://josia-roncancio.itch.io/loco-motion)
+- [Itch.io - Loco Motion](https://josia-roncancio.itch.io/loco-motion)
 
 ### Actions/verbs/mechanics
 
@@ -141,7 +149,6 @@ TODO: describe
 
 - 2D single player
 
-
 ### Setup
 
 - drawn world
@@ -158,6 +165,7 @@ TODO: describe
 ## Input: [Lorenzo Pilia](https://lorenzo.pilia.it/)
 
 - [Itch.io - Lorenzo Pilia](https://lorenzo.itch.io/)
+- [Itch.io - On Small Games](https://lorenzo.itch.io/on-small-games)
 - organizer a A maze
 - organizer of talk and play
 - saftladen
@@ -190,21 +198,32 @@ With small games, ideas can be tested and boundaries can be pushed.
 
 #### Examples
 
-- [End of the world](https://w.itch.io/end-of-the-world)
+- [Itch.io - End of the world](https://w.itch.io/end-of-the-world)
   - Game about making decisions when the world is ending
   - Creator: Anna Anthropy
   - Made with Twine, works in the browser
   - Duration: 10 seconds
-- [DYS4IA](https://w.itch.io/dys4ia)
+- [Itch.io - DYS4IA](https://w.itch.io/dys4ia)
   - Game about going through hormone therapy
   - Creator: Anna Anthropy
-- [TRIAD](https://w.itch.io/triad)
+- [Itch.io - TRIAD](https://w.itch.io/triad)
   - Game about how to fit three lovers in a bed that they fit comfortably
   - Creators: Anna Anthropy and Leon Arnott
-- [WarioWare D.I.Y.](https://www.nintendo.ch/de/Spiele/Nintendo-DS/WarioWare-Do-It-Yourself-273542.html)
+- [Nintendo.ch - WarioWare D.I.Y.](https://www.nintendo.ch/de/Spiele/Nintendo-DS/WarioWare-Do-It-Yourself-273542.html)
   - A game, in which little games can be built
   - Games built wih it, see: [Microcartridge](https://microcartridge.tumblr.com/)
-- [Bitsy](https://bitsy.org/)
+  - For Nintendo Switch, [Nintendo - Super Mario Maker](https://supermariomaker.nintendo.com/)
+- [Bitsy.org](https://bitsy.org/)
   - Can be used to build small games
-- [Twine](https://twinery.org/)
+- [twinery.org - Twine](https://twinery.org/)
   - Can be used to create small games
+- [mariov.ch - Kids](https://mariov.ch/project/kids)
+  - KIDS is an experimental project about the psychology of the group. The final products are an interactive animation, a short film and an exhibition.
+  - [Playkids.ch](https://playkids.ch/)
+- [David O Reilly](https://www.davidoreilly.com/)
+  - [Steampowered.com - Everything](https://store.steampowered.com/app/582270/Everything/)
+    - Simulation game where you can be every character of the universe
+  - [Steampowered.com](https://store.steampowered.com/app/313340/Mountain/)
+    - Simulation of a mountain
+- [Itch.io - Lieve Oma](https://vltmn.itch.io/lieve-oma)
+  - Game homage to important persons that we grew up with
