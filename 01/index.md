@@ -35,7 +35,6 @@
 
 ## Resources
 
-- Book: What we talk about when we tak about love
 - [Game poems book](https://www.gamepoemsbook.com/)
 - [minijamofficial.com - Mini Jam](https://minijamofficial.com/)
   - Game Jam on Itch.io
@@ -46,6 +45,7 @@
 - [Etterstudio.com - Game Design/Visual Design/Roboters ](https://etterstudio.com/index/)
 - [Amazon.com - Anna Anthropy - Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Drop-outs, Queers, Housewives, and People Like You Are Taking Back an Art Form](https://www.amazon.com/Rise-Videogame-Zinesters-Drop-outs-Housewives/dp/1609803728)
 - [Wikipedia.org - Raymond Carver - What we talk about when we talk about love](https://en.wikipedia.org/wiki/What_We_Talk_About_When_We_Talk_About_Love)
+- [Raindrop.io - Dragica Kahlina's collection of Bitsy games](https://raindrop.io/dkah/bitsy-games-27751566)
 
 ## Journal entry
 
