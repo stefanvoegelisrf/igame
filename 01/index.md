@@ -2,6 +2,209 @@
 
 - [15.11.2023](#15112023)
   - [Resources](#resources)
+  - [Journal entry](#journal-entry)
+  - [Introduction video](#introduction-video)
+    - [Mentioned games](#mentioned-games)
+  - [What is a game, what is a play?](#what-is-a-game-what-is-a-play)
+  - [The core of a game](#the-core-of-a-game)
+    - [Gameplay loop](#gameplay-loop)
+    - [Mechanics](#mechanics)
+      - [Primary mechanics](#primary-mechanics)
+      - [Secondary mechanics](#secondary-mechanics)
+      - [Examples](#examples)
+    - [Agency](#agency)
+    - [Feedback](#feedback)
+    - [Game state](#game-state)
+  - [Excercise: Analyze Game](#excercise-analyze-game)
+    - [Actions/verbs/mechanics](#actionsverbsmechanics)
+    - [Rules](#rules)
+    - [Gameplay loop](#gameplay-loop-1)
+    - [Goals](#goals)
+    - [Objects](#objects)
+    - [Playspace](#playspace)
+    - [Space of possibility](#space-of-possibility)
+    - [Player(s)](#players)
+    - [Setup](#setup)
+    - [Feedback](#feedback-1)
+  - [Input: Lorenzo Pilia](#input-lorenzo-pilia)
+    - [Question for Lorenzo](#question-for-lorenzo)
+    - [Small is beautiful](#small-is-beautiful)
+      - [Why make small games as a student](#why-make-small-games-as-a-student)
+      - [Examples](#examples-1)
 
 
 ## Resources
+
+- Book: What we talk about when we tak about love
+- [Book - Game poems](https://www.gamepoemsbook.com/)
+- [Mini Jam](https://minijamofficial.com/)
+
+## Journal entry
+
+As I am only a casual gamer, I am not that much affine with typical terms used in gaming. So I have learned basics on games including mechanics, gameplay loop and so on. I very much liked the approach of short games, as it appeals to my gaming habits. During our ideation phase for our game, it was challenging to develop a basic idea of a game that is reduced to the max. We have lots of ideas, but we were luckily able to come up with a basic idea that can be extended based on how much time we have left.
+
+## Introduction video
+
+> See: [YouTube - Sebastian Hollstein - Digitale Spiele als Zeitzeugen?](https://www.youtube.com/watch?v=WKzH2aWRtm0) (04:00 - 15:30)
+
+### Mentioned games
+
+- [Steampowered - Through the Darkest of Time](https://store.steampowered.com/app/1003090/Through_the_Darkest_of_Times/)
+
+## What is a game, what is a play?
+
+TODO: Explain how can be defined and what make a game a game and how a "play" differs from a game
+
+## The core of a game
+
+Main questions:
+- What is the goal of the player?
+- What obstacles are used? How can they be overcome?
+
+### Gameplay loop
+
+The gameloop is a collective set of actions that the player will be doing over a specific time frame.
+These actions can be implemented in different ways.
+
+### Mechanics
+
+TODO: general description of mechanics
+
+#### Primary mechanics
+
+These mechanics are use repeatedly and are essential for progressing in a game.
+
+#### Secondary mechanics
+
+These mechanics are used as secondary elements and do not belong to the main gameplay loop.
+
+#### Examples
+
+- Super Mario Bros: jump, run, shoot, eat
+- Angry Bird: Aim, shoot, physics(structures collapsing)
+- Limbo: Run, climb, jump, push & pull
+
+### Agency
+
+TODO: describe agency in games
+
+### Feedback
+
+TODO: describe feedback in context of games
+
+### Game state
+
+TODO: describe
+
+## Excercise: Analyze Game
+
+- [Loco Motion](https://josia-roncancio.itch.io/loco-motion)
+
+### Actions/verbs/mechanics
+
+- draw
+- reset
+- fast forward
+- Physics(gravity, collision)
+
+### Rules
+
+- you have to draw "two" wheels
+- wheels rotate clockwise
+- one try for one single run
+
+### Gameplay loop
+
+![Loco motion gameplay loop](loco%20motion%20game%20loop.png)
+
+### Goals
+
+- Complete course forward direction
+- Bonus: complete it as fast as possible
+
+### Objects
+
+- floor
+- obstacles
+- runner with "wheels"
+
+### Playspace
+
+- obstacle course
+
+### Space of possibility
+
+- up to the player as you have many possibilities to draw "wheel"
+  - timing is important as the first "wheel" starts spinning after is has been drawn
+
+### Player(s)
+
+- 2D single player
+
+
+### Setup
+
+- drawn world
+- bar
+- Compare "wheels" with other players
+- Compare time with other players
+
+### Feedback
+
+- for an optimal start one should begin to draw on the right point of the runner
+- Progress/No progress on course
+- Drawing along mouse path
+
+## Input: [Lorenzo Pilia](https://lorenzo.pilia.it/)
+
+- [Itch.io - Lorenzo Pilia](https://lorenzo.itch.io/)
+- organizer a A maze
+- organizer of talk and play
+- saftladen
+
+### Question for Lorenzo
+
+- How much are people willing to pay for a short game?
+  - free with donations
+  - before you play: small amount
+  - idea: create a collection of small games and sell as a package
+
+### Small is beautiful
+
+Small games are beautiful as you sometimes don't have the time to play longer games. Like that, they can also be experienced in one gaming session.
+Like that, more games can be explored as they don't take too much time.
+With small games, ideas can be tested and boundaries can be pushed.
+
+#### Why make small games as a student
+
+- learn fast
+- go through whole process of making a game
+- having complete control of all aspects of the game
+  - design
+  - narrative
+  - visual
+  - audio
+  - marketing
+- New and different tools can be used
+- Unusual/experimental approaches can be tested
+
+#### Examples
+
+- [End of the world](https://w.itch.io/end-of-the-world)
+  - Game about making decisions when the world is ending
+  - Creator: Anna Anthropy
+  - Made with Twine, works in the browser
+  - Duration: 10 seconds
+- [DYS4IA](https://w.itch.io/dys4ia)
+  - Game about going through hormone therapy
+  - Creator: Anna Anthropy
+- [TRIAD](https://w.itch.io/triad)
+  - Game about how to fit three lovers in a bed that they fit comfortably
+  - Creators: Anna Anthropy and Leon Arnott
+- [WarioWare D.I.Y.](https://www.nintendo.ch/de/Spiele/Nintendo-DS/WarioWare-Do-It-Yourself-273542.html)
+  - A game, in which little games can be built
+  - Games built wih it, see: [Microcartridge](https://microcartridge.tumblr.com/)
+- [Bitsy](https://bitsy.org/)
+  - Can be used to build small games
+- [Twine](https://twinery.org/)
+  - Can be used to create small games
