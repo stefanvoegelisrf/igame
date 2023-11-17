@@ -61,7 +61,7 @@ As I am only a casual gamer, I am not that much affine with typical terms used i
 
 ## What is a game, what is a play?
 
-TODO: Explain how can be defined and what make a game a game and how a "play" differs from a game
+A game is a structured form of play, typically guided by a specific set of rules or objectives, which may involve mental or physical challenges, and often includes interaction with others or a challenging environment. In contrast, a play is a form of artistic expression in theatre, focused on narrative and performance, without a fixed set of rules like a game. The content of a play can be adapted or changed by the participants, allowing for creative interpretation and expression in its enactment.
 
 ## The core of a game
 
