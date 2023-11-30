@@ -1,6 +1,23 @@
 # Game Design and Engineering
 
-Tutors
+**Table of Contents**
+- [Game Design and Engineering](#game-design-and-engineering)
+  - [Goal](#goal)
+  - [Inputs](#inputs)
+  - [Excercises](#excercises)
+  - [Project](#project)
+  - [Daily journal](#daily-journal)
+    - [15.11.2023](#15112023)
+    - [16.11.2023](#16112023)
+    - [17.11.2023](#17112023)
+    - [22.11.2023](#22112023)
+    - [23.11.2023](#23112023)
+    - [24.11.2023](#24112023)
+    - [29.11.2023](#29112023)
+    - [30.11.2023](#30112023)
+    - [01.12.2023](#01122023)
+
+**Tutors**
 - [Dragica Kahlina](https://ch.linkedin.com/in/dragicakahlina)
 - [Sebastina Hollstein](https://www.linkedin.com/in/sebastian-mittag/)
 - [Madlaina Kalunder](https://www.linkedin.com/in/madlaina-kalunder/?originalSubdomain=ch)
